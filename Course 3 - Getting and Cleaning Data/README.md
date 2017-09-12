@@ -15,5 +15,4 @@ The dataset being used is ```Human Activity Recognition Using Smartphones DataSe
  
 `tidy_data.txt` a tidy dataset created using dataset from step 4 as input, and uploaded in the course project's directory.
  
-###Note –
-Prerequisit to execute code script (`run_analysis.R`) is that the data should be present in the folder (`UCI HAR Dataset`) under user’s R working directory, un-compressed and without names altered.
+Note – Prerequisite to execute code script (`run_analysis.R`) is that the data should be present in the folder (`UCI HAR Dataset`) under user’s R working directory, un-compressed and without names altered.
