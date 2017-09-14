@@ -71,7 +71,7 @@ Project requires to perform following actions on the raw data:
 
 3. The average of each mean or standard deviation variable was calculated for each activity and each subject.
 
--tBodyAcc-mean()-X
+   * tBodyAcc-mean()-X
 
 -tBodyAcc-mean()-Y
 
